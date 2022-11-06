@@ -26,5 +26,5 @@ jobs:
           github-token: ${{ secrets.GITHUB_TOKEN }} # Optional
           extensions: 'js,jsx,ts,tsx'
           annotations: true
-          issueSummaryType: full
-          reportIgnoredFiles: true
+          # issueSummaryType: full
+          # reportIgnoredFiles: true
