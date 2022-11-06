@@ -20,22 +20,3 @@ jobs:
 
       - name: Roda o EsLint
         run: npm run lint
-          with:
-            github-token: ${{ secrets.GITHUB_TOKEN }} # Optional
-            extensions: 'js,jsx,ts,tsx'
-            annotations: true
-            # issueSummaryType: full
-            # reportIgnoredFiles: false
-
-
-# eslint . --ext .js, .jsx, .ts, .tsx
-  # Setup do Job
-    # Run teste do Eslint
-      # uses: actions/setup-node@v3
-    # - run: npm run lint
-      # with:
-          # github-token: ${{ secrets.GITHUB_TOKEN }} # Optional
-          # extensions: 'js,jsx,ts,tsx'
-          # annotations: true
-          # issueSummaryType: full
-          # reportIgnoredFiles: true
