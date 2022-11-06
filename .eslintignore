@@ -1,0 +1,5 @@
+/tests
+**/migrations/
+**/seeders/
+**/sequelize/models/
+**tests/models/

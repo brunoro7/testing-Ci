@@ -1,0 +1,12 @@
+{
+  "root": true,
+  "extends": ["airbnb-base"],
+  "rules": {
+    "indent": ["error", 2], // Identação,
+    "no-unused-vars": ["error", { "argsIgnorePattern": "^_" }], // Adiciona regra para inserir underscore nas variáveis sem uso
+    "quotes": ["error", "single"], // Aspas simples | Padrão Airbnb, não precisa inserir
+    "semi": ["error", "always"], // Ponto e vírgula sempre ao final | Padrão Airbnb, não precisa inserir
+    "no-console": "off" // Permite o uso do console.log() 
+    // O ideal é deixa essa regra on para evitar que vá console.log() para o código final | Padrão Airbnb, não precisa inserir
+  }
+}
