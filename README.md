@@ -1,7 +1,7 @@
 <div style="display:inline_block" align="center">
 
   <h1><strong>Testing Ci Basics</strong></h1>
-  <p>O básico de um README.md para apresentar um projeto.</p>
+  <p>O básico de um Continuous Integration com EsLint, foco frontend.</p>
 
 ---
 </div>
@@ -18,14 +18,7 @@ Este projeto foi desenvolvido e foi realizado por _[Bruno Ro7](https://www.linke
 ## **Técnologias usadas**
 
 **Front-end:**
-> Desenvolvido usando: [**css**](https://pt.wikipedia.org/wiki/Cascading_Style_Sheets), [**html**](https://pt.wikipedia.org/wiki/HTML), [**javascript**](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript), [**react**](https://reactjs.org/), [**react-router-dom**](https://www.npmjs.com/package/react-router-dom), [**eslint**](https://eslint.org/), [**eslint-config-airbnb**](https://www.npmjs.com/package/eslint-config-airbnb), [**eslint-plugin-import**](https://www.npmjs.com/package/eslint-plugin-import), [**eslint-plugin-react**](https://www.npmjs.com/package/eslint-plugin-react), [**axios**](https://www.npmjs.com/package/axios), [**dotenv**](https://www.npmjs.com/package/dotenv) e [**prop-types**](https://www.npmjs.com/package/prop-types);
-
-**Back-end:**
-> Desenvolvido usando: [**node**](https://nodejs.org);
-
-**Testes:**
-> [**mocha**](https://mochajs.org/), [**chai**](https://www.npmjs.com/package/chai), [**chai-as-promised**](https://www.npmjs.com/package/chai-as-promised), [**sinon**](https://sinonjs.org/) e [**nyc**](https://www.npmjs.com/package/nyc);
-
+> Desenvolvido usando: [**Markdown**]() e [**Javascript**](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript);
 ---
 
 ## **Contexto**
